@@ -1,0 +1,8 @@
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\bin\Debug\pregunta 5.exe.config
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\bin\Debug\pregunta 5.exe
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\bin\Debug\pregunta 5.pdb
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\obj\Debug\pregunta_5.Form1.resources
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\obj\Debug\pregunta_5.Properties.Resources.resources
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\obj\Debug\pregunta 5.csproj.GenerateResource.Cache
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\obj\Debug\pregunta 5.exe
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 5\pregunta 5\obj\Debug\pregunta 5.pdb

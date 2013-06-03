@@ -1,0 +1,9 @@
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\bin\Debug\pregunta 4.exe.config
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\bin\Debug\pregunta 4.exe
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\bin\Debug\pregunta 4.pdb
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\obj\Debug\pregunta 4.csprojResolveAssemblyReference.cache
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\obj\Debug\pregunta_4.Form1.resources
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\obj\Debug\pregunta_4.Properties.Resources.resources
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\obj\Debug\pregunta 4.csproj.GenerateResource.Cache
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\obj\Debug\pregunta 4.exe
+C:\Users\Maestro\Documents\ISIL\Fundamentos de Programacion\tarea 3\pregunta 4\pregunta 4\obj\Debug\pregunta 4.pdb
