@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Express 2010 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pregunta 5", "pregunta 5\pregunta 5.csproj", "{583D2529-51CC-4D87-A48D-A04B3AB39F6E}"
 EndProject
 Global
